@@ -30,9 +30,7 @@ Admins can **add, edit, and view events** directly on the calendar, and students
 - **Backend:** Not required (uses LocalStorage)
 - **Notifications:** JavaScript alerts (can be upgraded to Notifications API)
 
-## 🌐 Live Demo
 
-[🔗 Click here to view the live app](http://127.0.0.1:5501/calender.html)
 
 
 
