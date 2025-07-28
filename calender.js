@@ -37,24 +37,6 @@ const months = [
     "December",
 ];
 
-// Default Event Array
-// const eventsArr = [
-//     {
-//         day: 13,
-//         month: 11,
-//         year: 2022,
-//         events: [
-//         {
-//             title: "Event 1 lorem ipsun dolar sit genfa tersd dsad ",
-//             time: "10:00 AM",
-//         },
-//         {
-//             title: "WE GO JIM",
-//             time: "11:00 AM",
-//         },
-//         ],
-//     },
-// ];
 
 const eventsArr = [];
 getEvents();
